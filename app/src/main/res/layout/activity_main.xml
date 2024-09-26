@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/standardButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Apps in Standard Mode" />
+
+    <Button
+        android:id="@+id/splitScreenButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Apps in Split-screen Mode" />
+
+    <Button
+        android:id="@+id/freeFormButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Apps in Free-form Mode" />
+
+    <Button
+        android:id="@+id/pinnedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Apps in Picture-In-Picture Mode" />
+
+    <Button
+        android:id="@+id/embeddedActivityButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:text="Start Embedded Activities Mode" />
+
+</LinearLayout>
