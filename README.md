@@ -1,14 +1,13 @@
 <a id="readme-top"></a>
+
 <h3 align="center">Multi Window Launcher</h3>
+<p align="center"> Load two apps in normal, split, free-form or picture-in-picture mode (example app - with Maps and Chrome) </p>
 
 <!-- TECH STACK -->
 ## Tech Stack
 [![Android][Android-Shield]][Android-Url]
-
 [![Gradle][Gradle-Shield]][Gradle-Url]
-
 [![Java][Java-Shield]][Java-Url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
